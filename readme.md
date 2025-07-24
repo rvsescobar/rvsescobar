@@ -1,7 +1,7 @@
 # 👋 Prazer, eu sou Raphael Escobar!
 
 ## 💼 Uma breve introdução sobre minha pessoa profissional
-Sou **Desenvolvedor Backend Sênior** com foco em **.NET Framework e C#**, atuando na área de tecnologia desde 2002. Tenho ampla experiência em desenvolvimento e manutenção de sistemas, tanto novos quanto legados, e sou entusiasmado e motivado por criar soluções eficientes e bem estruturadas.
+Sou **desenvolvedor backend sênior** com foco em **.NET Framework e C#**, atuando na área de tecnologia desde 2002. Tenho ampla experiência em desenvolvimento e manutenção de sistemas, tanto novos quanto legados, e sou entusiasmado e motivado por criar soluções eficientes e bem estruturadas.
 
 - 📍 Localização: Magé, Rio de Janeiro, Brasil
 - 🎓 Formação: Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida
@@ -20,24 +20,24 @@ Sou **Desenvolvedor Backend Sênior** com foco em **.NET Framework e C#**, atuan
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsescobar&layout=compact&theme=dracula)
-
 ## 📚 Repositórios em destaque
 - [ExerciciosEmC](https://github.com/rvsescobar/ExerciciosEmC): Treinamento básico em linguagem C
 - [ExerciciosJavaScript](https://github.com/rvsescobar/ExerciciosJavaScript): Prática com JS puro
 - [LivrariaEspirita](https://github.com/rvsescobar/LivrariaEspirita): Aplicação desktop para gestão de livraria, projeto onde tudo começou
 
-## 📫 Onde me encontrar
+## 📊 GitHub Status
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsescobar&layout=compact&theme=dracula)
+
+## ✨ Curiosidades
+- 🧩 Já trabalhei com Delphi, VB6 e ASP clássico
+- 🗃️ Experiência com bancos MySQL, SQL Server e Oracle
+
+## 📫 Encontre me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvsescobar/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rvsescobar)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://rvsescobar.medium.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rvsescobar@gmail.com)
 
-## ✨ Curiosidades
-- 🧩 Já trabalhei com Delphi, VB6 e ASP clássico
-- 🗃️ Experiência com bancos Oracle, MySQL e SQL Server
-- 📈 Gosto de otimizar queries e criar stored procedures eficientes
-
 ## 💬 Frase que me inspira
-_"Hakuna Matata."_
+_"Hakuna Matata."_ - Expressão em suaíli.  
+_"Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender."_ - Ada LoveLance

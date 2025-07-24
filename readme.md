@@ -38,6 +38,6 @@ Sou **desenvolvedor backend sênior** com foco em **.NET Framework e C#**, atuan
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://rvsescobar.medium.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rvsescobar@gmail.com)
 
-## 💬 Frase que me inspira
+## 💬 Inspirações, citações e reflexões
 _"Hakuna Matata."_ - Expressão em suaíli.  
 _"Nunca estou realmente satisfeita quanto a entender alguma coisa; porque, até onde entendo, a minha compreensão só pode ser uma fração infinitesimal de tudo o que eu quero compreender."_ - Ada LoveLance

@@ -22,7 +22,8 @@ Sou **desenvolvedor backend sênior** com foco em **.NET Framework e C#**, atuan
 
 ## 📚 Repositórios em destaque
 - [ExerciciosEmC](https://github.com/rvsescobar/ExerciciosEmC): Treinamento básico em linguagem C
-- [ExerciciosJavaScript](https://github.com/rvsescobar/ExerciciosJavaScript): Prática com JS puro
+- [ExerciciosJavaScript](https://github.com/rvsescobar/ExerciciosJavaScript): Exercícios com JS, HTML e CSS
+- [ExerciciosEmCSharp](https://github.com/rvsescobar/ExerciciosEmCSharp): Práticas com C# puro
 - [LivrariaEspirita](https://github.com/rvsescobar/LivrariaEspirita): Aplicação desktop para gestão de livraria, projeto onde tudo começou
 
 ## 📊 GitHub Status
